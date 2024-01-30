@@ -1,4 +1,4 @@
-# Cool Website Full Of Math
+# Temporary CoolMathGames
 
 - Has math
 - Blocked 2 times so far
@@ -6,4 +6,5 @@
 
 # Link To Website
 
-https://funschoolmath.github.io
+https://AP-Games.github.io
+
