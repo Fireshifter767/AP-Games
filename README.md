@@ -2,7 +2,7 @@
 
 - All original code
 - Real
-- Humainely Created
+- Humanely Created
 - Vegan
 - Our work
 - not stolen™
