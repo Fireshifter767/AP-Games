@@ -1,14 +1,6 @@
 # Temporary CoolMathGames
 
-- All original code
-- Real
-- Humanely Created
-- Vegan
-- Our work
-- not stolen™
-- Never Blocked
-- Educational content
-
+- Coolmathgames fork incase other site gets taken down or somethin tell us if you want it removed
 # Link To Website
 
 https://AP-Games.github.io
