@@ -1,6 +1,11 @@
 # Temporary CoolMathGames
 
-- Blatant Ripoff
+- All original code
+- Real
+- Humainely Created
+- Vegan
+- Our work
+- not stolen™
 - Never Blocked
 - Educational content
 
