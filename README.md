@@ -1,8 +1,8 @@
 # Temporary CoolMathGames
 
-- Has math
-- Blocked 2 times so far
-- No games here
+- Blatant Ripoff
+- Never Blocked
+- Educational content
 
 # Link To Website
 
